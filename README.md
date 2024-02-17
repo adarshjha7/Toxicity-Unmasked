@@ -1,4 +1,4 @@
-Download/Clone both of my csv file and jupyter file 
+Download/Clone both of my csv file and jupyter file ,
 I used GoogLeCollab
 
 *Read comments in my .ipynb file properly*
